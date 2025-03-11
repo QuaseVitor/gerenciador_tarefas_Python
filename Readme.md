@@ -1,6 +1,3 @@
-### **README.md**
-
-```markdown
 # Gerenciador de Tarefas
 
 Este é um simples gerenciador de tarefas em Python, onde o usuário pode adicionar, visualizar e listar tarefas anotadas. Ele armazena as tarefas em um arquivo de texto, permitindo que o usuário leia ou adicione novas tarefas sempre que necessário.
